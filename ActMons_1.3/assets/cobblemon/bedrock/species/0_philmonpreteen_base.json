@@ -1,0 +1,18 @@
+
+{
+  "species": "cobblemon:philmonpreteen",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:philmonpreteen",
+      "model": "cobblemon:philmonpreteen.geo",
+      "texture": "cobblemon:textures/pokemon/philmonpreteen/philmonpreteen.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/tentaquil/philmonpreteen_shiny.png"
+    }
+  ]
+}

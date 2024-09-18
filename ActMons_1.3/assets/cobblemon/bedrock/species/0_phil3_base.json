@@ -1,0 +1,18 @@
+
+{
+  "species": "cobblemon:phil3",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:phil3",
+      "model": "cobblemon:phil3.geo",
+      "texture": "cobblemon:textures/pokemon/phil3/phil3.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/tentaquil/phil3_shiny.png"
+    }
+  ]
+}
